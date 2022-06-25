@@ -1,7 +1,7 @@
 # Big Tech Conferences ❤️💻
 2022 Databricks Data & AI Summit in San Francisco, CA
 
-<img src="https://databricks.com/wp-content/uploads/2022/05/dataaisummit-og.png" alt="Data and AI Summit 2022 - Databricks"/>![image](https://user-images.githubusercontent.com/19508013/174823800-7a4f7f7e-631d-4f9f-881a-085b8a443a7e.png)
+<img src="https://databricks.com/wp-content/uploads/2022/05/dataaisummit-og.png" alt="Data and AI Summit 2022 - Databricks"/>
 
 2019 Accenture Applied Intelligence Summer Conference in San Francisco, CA
 
