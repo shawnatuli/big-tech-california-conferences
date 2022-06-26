@@ -7,6 +7,10 @@
 
 ![accenture](https://user-images.githubusercontent.com/19508013/175800691-395a3c53-4337-44d2-93ca-6b3d6b107326.jpg)
 
+∙ 2019 Google exploreCSR Southern California Workshop in Long Beach, CA
+
+![Google-logo](https://user-images.githubusercontent.com/19508013/165817784-ca199514-36a3-4083-92f4-7a3da18f29e5.png)
+
 ∙ 2018 Google Women in Engineering Conference in Mountain View, CA
 
 ![Google-logo](https://user-images.githubusercontent.com/19508013/165817784-ca199514-36a3-4083-92f4-7a3da18f29e5.png)
