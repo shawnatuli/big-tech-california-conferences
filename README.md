@@ -5,7 +5,7 @@
 
 ∙ 2019 Accenture Applied Intelligence Summer Conference in San Francisco, CA
 
-![download](https://user-images.githubusercontent.com/19508013/175800652-36ff4b2e-3c15-474d-83e3-a5b458bf479f.png)
+![accenture](https://user-images.githubusercontent.com/19508013/175800691-395a3c53-4337-44d2-93ca-6b3d6b107326.jpg)
 
 ∙ 2018 Google Women in Engineering Conference in Mountain View, CA
 
@@ -18,3 +18,7 @@
 ![ghc](https://user-images.githubusercontent.com/19508013/165828482-2ebef4a1-f2f5-48ee-8c18-3f030d0d0ff6.png)
 
 ![239449961_1162689400889867_2180280737679742306_n](https://user-images.githubusercontent.com/19508013/163058666-8ec1255e-542d-4333-a690-6ab7ad787ebd.jpg)
+
+∙ 2016 MongoDB.local SoCal in Irvine, CA
+
+![download](https://user-images.githubusercontent.com/19508013/175800746-845610ad-114e-4297-8e5a-79bbb79e3d28.png)
