@@ -5,6 +5,8 @@
 
 ∙ 2019 Accenture Applied Intelligence Summer Conference in San Francisco, CA
 
+![download](https://user-images.githubusercontent.com/19508013/175800652-36ff4b2e-3c15-474d-83e3-a5b458bf479f.png)
+
 ∙ 2018 Google Women in Engineering Conference in Mountain View, CA
 
 ![Google-logo](https://user-images.githubusercontent.com/19508013/165817784-ca199514-36a3-4083-92f4-7a3da18f29e5.png)
