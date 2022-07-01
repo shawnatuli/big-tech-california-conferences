@@ -42,3 +42,7 @@
 ∙ 2016 Google for Los Gatos High School's Women in Computer Science Club in Mountain View, CA
 
 ![Screenshot_2015-05-18-19-02-33](https://user-images.githubusercontent.com/19508013/135185847-f367ba1e-efe7-4c8a-9453-32dc6fafc076.jpeg)
+
+∙ 2015 Yahoo for Stanford University's Girl Code Program in Sunnyvale, CA
+
+![IMG_4002](https://user-images.githubusercontent.com/19508013/135185815-5a02b3fb-433f-4c0a-89c7-e4f676b5ec56.jpeg)
