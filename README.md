@@ -63,6 +63,8 @@
 
 ∙ 2015 Yahoo for Stanford University's Girl Code Program in Sunnyvale, CA
 
+![Stanford-Symbol](https://user-images.githubusercontent.com/19508013/176965152-c435f3fa-deaf-43e7-9319-5a6d0cb09cad.png)
+
 ![Stanford_eng](https://user-images.githubusercontent.com/19508013/176965242-81852e1e-5389-4af0-bbaa-dba43599e2a9.png)
 
 <img width="600" alt="yahoo" src="https://user-images.githubusercontent.com/19508013/176965923-2db3e1ba-a6d4-4233-ac2e-5f9c000854c7.png">
