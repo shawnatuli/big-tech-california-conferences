@@ -1,4 +1,4 @@
-# Big Tech Conferences ❤️💻
+# Big Tech California Conferences ❤️💻
 ∙ 2022 Databricks Data & AI Summit in San Francisco, CA
 
 ![avanade](https://user-images.githubusercontent.com/19508013/176964819-c3a6d3e6-9811-4462-9869-863bc87539cb.png)
