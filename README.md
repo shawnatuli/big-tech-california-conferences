@@ -65,6 +65,8 @@
 
 ![Stanford_eng](https://user-images.githubusercontent.com/19508013/176965242-81852e1e-5389-4af0-bbaa-dba43599e2a9.png)
 
+<img width="600" alt="yahoo" src="https://user-images.githubusercontent.com/19508013/176965923-2db3e1ba-a6d4-4233-ac2e-5f9c000854c7.png">
+
 ![IMG_4002](https://user-images.githubusercontent.com/19508013/135185815-5a02b3fb-433f-4c0a-89c7-e4f676b5ec56.jpeg)
 
 ∙ 2015 Stanford Splash in Stanford, CA
