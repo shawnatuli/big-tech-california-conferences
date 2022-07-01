@@ -21,6 +21,8 @@
 
 ∙ 2019 IEEE International Conference on Semantic Computing in Irvine, CA
 
+![uci](https://user-images.githubusercontent.com/19508013/176968711-73962673-56af-44d2-a910-6e564190372a.png)
+
 ![dbh](https://user-images.githubusercontent.com/19508013/176968613-03647850-5b25-4e16-af0b-dc7b2288e00c.png)
 
 ![ieee](https://user-images.githubusercontent.com/19508013/176810983-0bb01900-ff32-4f7b-9834-bb76ac2918fc.png)
