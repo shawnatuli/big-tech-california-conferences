@@ -7,6 +7,10 @@
 
 ![accenture](https://user-images.githubusercontent.com/19508013/175800691-395a3c53-4337-44d2-93ca-6b3d6b107326.jpg)
 
+∙ 2019 Avanade FUEL Leadership Conference in Pomona, CA
+
+![avanade](https://user-images.githubusercontent.com/19508013/176964726-f5fb5e99-cabd-4579-a25a-05e12bad48ca.png)
+
 ∙ 2019 Google exploreCSR Southern California Workshop in Long Beach, CA
 
 ![Google-logo](https://user-images.githubusercontent.com/19508013/165817784-ca199514-36a3-4083-92f4-7a3da18f29e5.png)
