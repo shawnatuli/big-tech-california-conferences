@@ -9,7 +9,7 @@
 
 ∙ 2019 Avanade FUEL Leadership Conference in Pomona, CA
 
-![avanade](https://user-images.githubusercontent.com/19508013/176964726-f5fb5e99-cabd-4579-a25a-05e12bad48ca.png)
+![avanade](https://user-images.githubusercontent.com/19508013/176964819-c3a6d3e6-9811-4462-9869-863bc87539cb.png)
 
 ∙ 2019 Google exploreCSR Southern California Workshop in Long Beach, CA
 
