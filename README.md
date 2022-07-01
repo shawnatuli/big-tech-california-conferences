@@ -81,6 +81,10 @@
 
 ![IMG_4002](https://user-images.githubusercontent.com/19508013/135185815-5a02b3fb-433f-4c0a-89c7-e4f676b5ec56.jpeg)
 
+∙ 2015 Stanford University's Girl Code Program in Stanford, CA
+
+![stanford](https://user-images.githubusercontent.com/19508013/176975454-8dd720a9-6f71-4eca-8c2e-8b9eea013352.jpeg)
+
 ∙ 2015 Stanford Splash in Stanford, CA
 
 ![Stanford-Symbol](https://user-images.githubusercontent.com/19508013/176965152-c435f3fa-deaf-43e7-9319-5a6d0cb09cad.png)
