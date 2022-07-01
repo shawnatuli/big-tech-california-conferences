@@ -17,6 +17,8 @@
 
 ∙ 2018 Google tgif Conferences in Mountain View, CA
 
+![Google-logo](https://user-images.githubusercontent.com/19508013/165817784-ca199514-36a3-4083-92f4-7a3da18f29e5.png)
+
 ![tgif](https://user-images.githubusercontent.com/19508013/176812347-6b3a6ec7-c568-42cb-a3ac-92b9b73d8059.jpeg)
 
 ∙ 2018 Google Women in Engineering Conference in Mountain View, CA
