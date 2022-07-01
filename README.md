@@ -59,4 +59,6 @@
 
 ∙ 2015 Stanford Splash in Stanford, CA
 
+![Stanford-Symbol](https://user-images.githubusercontent.com/19508013/176965152-c435f3fa-deaf-43e7-9319-5a6d0cb09cad.png)
+
 ![stanford_splash](https://user-images.githubusercontent.com/19508013/176964960-9b5c16a9-08d9-418b-bd1c-f8a4440ca35a.png)
