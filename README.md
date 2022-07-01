@@ -43,13 +43,19 @@
 
 ∙ 2016 Netflix for Los Gatos High School's Women in Computer Science Club in Los Gatos, CA
 
+![netflix](https://user-images.githubusercontent.com/19508013/176965437-89b9f94e-4fa6-4182-8c8a-51eed8ee829f.png)
+
 ![IMG_0790](https://user-images.githubusercontent.com/19508013/135185829-895b0d3d-f5a2-402e-a039-23947bb1e26a.jpeg)
 
 ∙ 2016 Intel for Los Gatos High School's Women in Computer Science club in Santa Clara, CA
 
+![intel](https://user-images.githubusercontent.com/19508013/176965449-8fd96bde-a2cb-45e8-8e59-c2cacafd304d.png)
+
 ![IMG_1466-1](https://user-images.githubusercontent.com/19508013/135185838-d954b817-4589-4142-86d3-2b4e110efc39.jpeg)
 
 ∙ 2016 Google for Los Gatos High School's Women in Computer Science Club in Mountain View, CA
+
+![Google-logo](https://user-images.githubusercontent.com/19508013/165817784-ca199514-36a3-4083-92f4-7a3da18f29e5.png)
 
 ![Screenshot_2015-05-18-19-02-33](https://user-images.githubusercontent.com/19508013/135185847-f367ba1e-efe7-4c8a-9453-32dc6fafc076.jpeg)
 
