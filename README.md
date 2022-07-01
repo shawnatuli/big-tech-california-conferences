@@ -56,3 +56,7 @@
 ∙ 2015 Yahoo for Stanford University's Girl Code Program in Sunnyvale, CA
 
 ![IMG_4002](https://user-images.githubusercontent.com/19508013/135185815-5a02b3fb-433f-4c0a-89c7-e4f676b5ec56.jpeg)
+
+∙ 2015 Stanford Splash in Sunnyvale, CA
+
+![stanford_splash](https://user-images.githubusercontent.com/19508013/176964960-9b5c16a9-08d9-418b-bd1c-f8a4440ca35a.png)
