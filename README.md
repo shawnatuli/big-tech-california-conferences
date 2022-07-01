@@ -31,11 +31,11 @@
 
 ![MongoDB-Logo](https://user-images.githubusercontent.com/19508013/175800769-faca210d-d2e9-4db7-9484-892d2b110329.jpg)
 
-∙ 2016 Intel for Los Gatos High School's Women in Computer Science club in Santa Clara, CA
+∙ 2016 Netflix for Los Gatos High School's Women in Computer Science Club in Los Gatos, CA
 
 ![IMG_0790](https://user-images.githubusercontent.com/19508013/135185829-895b0d3d-f5a2-402e-a039-23947bb1e26a.jpeg)
 
-∙ 2016 Netflix for Los Gatos High School's Women in Computer Science Club in Los Gatos, CA
+∙ 2016 Intel for Los Gatos High School's Women in Computer Science club in Santa Clara, CA
 
 ![IMG_1466-1](https://user-images.githubusercontent.com/19508013/135185838-d954b817-4589-4142-86d3-2b4e110efc39.jpeg)
 
