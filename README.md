@@ -1,9 +1,21 @@
 # Big Tech California Conferences ❤️💻
+∙ 2022 Accenture UCI Health Spotlight in Los Angeles, CA
+
+![accenture](https://user-images.githubusercontent.com/19508013/175800691-395a3c53-4337-44d2-93ca-6b3d6b107326.jpg)
+
 ∙ 2022 Databricks Data & AI Summit in San Francisco, CA
 
 ![avanade](https://user-images.githubusercontent.com/19508013/176964819-c3a6d3e6-9811-4462-9869-863bc87539cb.png)
 
 <img src="https://databricks.com/wp-content/uploads/2022/05/dataaisummit-og.png" alt="Data and AI Summit 2022 - Databricks"/>
+
+∙ 2021 Google I/O
+
+![image](https://user-images.githubusercontent.com/19508013/180625365-137ee6d2-a2d7-481b-bb27-3685e41a2c5a.png)
+
+∙ 2021 Microsoft Envision
+
+![image](https://user-images.githubusercontent.com/19508013/180625346-42ae2a8c-c0e4-4887-adbe-40d0f80163c8.png)
 
 ∙ 2019 Accenture Applied Intelligence Summer Conference in San Francisco, CA
 
