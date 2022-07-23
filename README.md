@@ -1,5 +1,5 @@
 # Big Tech California Conferences ❤️💻
-∙ 2022 Accenture UCI Health Spotlight in Los Angeles, CA
+∙ 2022 Accenture Health Southern California Community Call in Los Angeles, CA
 
 ![accenture](https://user-images.githubusercontent.com/19508013/175800691-395a3c53-4337-44d2-93ca-6b3d6b107326.jpg)
 
