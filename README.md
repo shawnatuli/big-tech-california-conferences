@@ -3,6 +3,8 @@
 
 ![accenture](https://user-images.githubusercontent.com/19508013/175800691-395a3c53-4337-44d2-93ca-6b3d6b107326.jpg)
 
+![165773969-b2c06500-a26a-4d3f-9346-e3a058607307](https://user-images.githubusercontent.com/19508013/180634730-2600489e-5eed-4041-9810-b5bac768657f.png)
+
 ∙ 2022 Databricks Data & AI Summit in San Francisco, CA
 
 ![avanade](https://user-images.githubusercontent.com/19508013/176964819-c3a6d3e6-9811-4462-9869-863bc87539cb.png)
@@ -30,6 +32,8 @@
 ∙ 2019 Accenture Applied Intelligence Summer Conference in San Francisco, CA
 
 ![accenture](https://user-images.githubusercontent.com/19508013/175800691-395a3c53-4337-44d2-93ca-6b3d6b107326.jpg)
+
+![165773969-b2c06500-a26a-4d3f-9346-e3a058607307](https://user-images.githubusercontent.com/19508013/180634737-74fe259d-d82e-4c13-ab87-ae94e27ba38e.png)
 
 ∙ 2019 Avanade FUEL Leadership Conference in Pomona, CA
 
