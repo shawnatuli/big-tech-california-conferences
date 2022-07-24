@@ -9,6 +9,14 @@
 
 <img src="https://databricks.com/wp-content/uploads/2022/05/dataaisummit-og.png" alt="Data and AI Summit 2022 - Databricks"/>
 
+∙ 2022 Google I/O
+
+![image](https://user-images.githubusercontent.com/19508013/180625365-137ee6d2-a2d7-481b-bb27-3685e41a2c5a.png)
+
+∙ 2022 Microsoft Envision
+
+![image](https://user-images.githubusercontent.com/19508013/180625346-42ae2a8c-c0e4-4887-adbe-40d0f80163c8.png)
+
 ∙ 2021 Google I/O
 
 ![image](https://user-images.githubusercontent.com/19508013/180625365-137ee6d2-a2d7-481b-bb27-3685e41a2c5a.png)
