@@ -11,7 +11,7 @@
 
 ∙ 2022 Google I/O
 
-![image](https://user-images.githubusercontent.com/19508013/180625365-137ee6d2-a2d7-481b-bb27-3685e41a2c5a.png)
+![og-image](https://user-images.githubusercontent.com/19508013/180634233-a27936d4-3177-4188-9558-9473cac581cc.jpg)
 
 ∙ 2022 Microsoft Envision
 
