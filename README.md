@@ -25,6 +25,8 @@
 
 ![image](https://user-images.githubusercontent.com/19508013/180625346-42ae2a8c-c0e4-4887-adbe-40d0f80163c8.png)
 
+<img width="420" alt="Screen Shot 2021-03-02 at 6 53 50 AM" src="https://user-images.githubusercontent.com/19508013/180634493-a73d3846-16d6-40a4-a3de-b0b42e61ba54.png">
+
 ∙ 2019 Accenture Applied Intelligence Summer Conference in San Francisco, CA
 
 ![accenture](https://user-images.githubusercontent.com/19508013/175800691-395a3c53-4337-44d2-93ca-6b3d6b107326.jpg)
